@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<knockout_mma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="knockout_mma.xsd">
+    <fighter>
+        <name>Conor McGregor</name>
+        <weight_class>Lightweight</weight_class>
+        <wins>22</wins>
+    </fighter>
+    <fighter>
+        <name>Amanda Nunes</name>
+        <weight_class>Bantamweight</weight_class>
+        <wins>23</wins>
+    </fighter>
+</knockout_mma>
